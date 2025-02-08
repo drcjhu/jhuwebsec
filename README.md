@@ -1,2 +1,2 @@
 # jhuwebsec
-jhu websec course code
+JHU WebSec course code
